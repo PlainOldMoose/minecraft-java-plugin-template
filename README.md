@@ -4,13 +4,13 @@ A lightweight, ready-to-use template for creating Minecraft plugins using **Java
 This repository provides a clean, standard structure for Spigot plugins.
 
 ## Project Structure
-
+```
 minecraft-java-plugin-template/
 ├── src/ # Java source files (main and test)
 ├── pom.xml # Maven configuration
 ├── .gitignore # Ignore build files, IDE settings, etc.
 ├── LICENSE # MIT License
-└── README.md # Project documentation
+└── README.md # Project documentation```
 
 ## How to use
 
