@@ -17,7 +17,7 @@ minecraft-java-plugin-template/
 
 Rename the project
 Update the following:
-- In pom.xml → change the <groupId>, <artifactId>, and <name>
+- In pom.xml → change the "<groupId>", "<artifactId>", and "<name>"
 - In src/main/java → rename the package and main plugin class
 - In plugin.yml (create it under src/main/resources if missing) → update the main path and plugin metadata
 
