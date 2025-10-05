@@ -1,0 +1,64 @@
+# ========================================
+# IntelliJ IDEA
+# ========================================
+.idea/
+*.iml
+out/
+*.iws
+*.ipr
+
+# IntelliJ local history
+.idea/**/shelf/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+.idea/**/httpRequests/
+.idea/**/libraries/
+.idea/**/usage.statistics.xml
+
+# ========================================
+# Maven
+# ========================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# ========================================
+# Java
+# ========================================
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+
+# ========================================
+# OS Files
+# ========================================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ========================================
+# Logs & Temporary files
+# ========================================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ========================================
+# Environment files (optional)
+# ========================================
+.env
+.env.local
