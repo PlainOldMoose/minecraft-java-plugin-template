@@ -23,4 +23,4 @@ Update the following:
 
 ## License
 
-This template is released under the MIT License — feel free to use, modify, and distribute it for any project.
+This template is released under the MIT License - feel free to use, modify, and distribute it for any project.
