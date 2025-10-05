@@ -10,7 +10,8 @@ minecraft-java-plugin-template/
 ├── pom.xml # Maven configuration
 ├── .gitignore # Ignore build files, IDE settings, etc.
 ├── LICENSE # MIT License
-└── README.md # Project documentation```
+└── README.md # Project documentation
+```
 
 ## How to use
 
